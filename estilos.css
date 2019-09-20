@@ -1,0 +1,23 @@
+.border{
+    border: 4px inset rgb(255, 0, 191);
+    padding: 50px 50px 50px 50px;
+    font-size: 170%;
+    text-align: justify;
+}
+.columna{
+    display: inline-block;
+    width:300px;
+    vertical-align: top;
+    height: 300px;
+    margin: 20px;
+}
+
+.izquierda{
+    text-align: center;
+    border: 10px double black;
+    padding: 10px 5px 10px 5px;
+}
+.derecha{
+    text-align: center;
+    border: 10px ridge cyan; 
+}
